@@ -1,0 +1,32 @@
+/* Mivel Wageh Page1 html#MW2021 */
+ html#Mohraeel body{
+    background-color:lightblue;
+    direction: rtl;
+  }
+
+html#Mohraeel h1 {
+    text-align: center;
+    text-shadow: 3px 2px blue;
+  }
+  
+  html#Mohraeel div.gallery { 
+     margin: 5px;  
+     border: 1px solid #ccc;
+     float: left; 
+     width: 350px;
+     display: block;
+     /* width: auto;  */
+   }
+  html#Mohraeel div.gallery:hover {
+     border: 1px solid #777;  
+   } 
+  html#Mohraeel div.gallery img {
+     width:100%;
+     height:auto;
+   }  
+  html#Mohraeel div.desc { 
+     padding: 15px;
+     text-align: center;
+   } 
+ 
+ 
